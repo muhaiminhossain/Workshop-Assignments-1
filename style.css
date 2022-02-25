@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    display: block;
+    margin: 10px 0px;
+    border-radius: 5px;
+}
+button{
+    border-radius: 5px;
+}
